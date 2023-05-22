@@ -13,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -26,9 +26,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Step I - Roles</h2>
 
 <p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095610767174275103/image.png"/>
+<img src="https://i.imgur.com/kniFNZK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
+<img src="https://i.imgur.com/6cSW2a8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and assist with any issues.
@@ -37,7 +37,7 @@ For my first line of action, I will create the Head Administrator role by naviga
 
 <p>
 <h2>Creating Departments</h2>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
+<img src="https://i.imgur.com/u0hOdEQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <h2>Creating Agents and Teams</h2>
 Now I will create the 2 teams and my 2 agents by navigating to Agents > Roles/ Agents > Agents
@@ -45,14 +45,14 @@ Now I will create the 2 teams and my 2 agents by navigating to Agents > Roles/ A
 
 - Level II Support
 </p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419877147299920/image.png"/>
+<img src="https://i.imgur.com/kdCQzPB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Level I Support will be responsible for simple tasks such as password resets or general information. 
 
 Deep issues in the infrastructure of the website will be escalated to Level II Support for their evaluation.
 </p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095421033554657391/image.png"/>
+<img src="https://i.imgur.com/21IlZZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 For my Head Administrator I will create Marlon Robinson, and Dominic Clark as my Level I support (names used for demo purposes do not reflect real people)
 
@@ -60,7 +60,7 @@ For my Head Administrator I will create Marlon Robinson, and Dominic Clark as my
 <p>
 <h2>Configuring SLA (Service Level Agreement)</h2>
 <p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095422542707167372/image.png"/>
+<img src="https://i.imgur.com/UaqNrPs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -68,7 +68,7 @@ Next, I'll configure SLA levels, with SEV-A being the most urgent usually used i
 </p>
 <h2>Help Topics</h2>
 <br />
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095430358037712907/image.png"/>
+<img src="https://i.imgur.com/RwtWagA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned.
 
